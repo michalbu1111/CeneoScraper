@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": ".venv/Lib/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1/",
+			"problemMatcher": [],
+			"label": "npm: install - .venv/Lib/site-packages/matplotlib/backends/web_backend/jquery-ui-1.12.1",
+			"detail": "install dependencies from package",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
